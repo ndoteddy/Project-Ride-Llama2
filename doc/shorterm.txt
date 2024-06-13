@@ -1,0 +1,24 @@
+Incident Reporting: For any incidents, please refer here to obtain detailed information regarding the issue.
+
+Incident Categories: Incidents are classified into five priority levels:
+P1: Critical
+P2: High
+P3: Moderate
+P4: Low
+P5: Planning
+
+DevOps Tools: Our current DevOps toolkit includes:
+Trello for project tracking and repository management.
+GCR for artifact storage and distribution.
+NPM for package management.
+
+Software Installation Requirements: The following software is required for development:
+Visual Studio 2022
+.NET 8
+MSSQL 2019
+Angular 15
+Node 16
+
+API Integration: My API is planned with the following external APIs:
+XX for enterprise resource planning.
+YY for technical application support.
